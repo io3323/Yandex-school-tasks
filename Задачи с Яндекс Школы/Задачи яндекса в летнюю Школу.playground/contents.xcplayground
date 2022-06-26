@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Задача сложная буква'/>
+        <page name='Задача сложная буква(Реализация через классы)'/>
+        <page name='Подсчет количества уникальных пользователей'/>
+        <page name='Задача про Андрея Акционера'/>
+        <page name='Андрей акционер второй вариант решения'/>
+        <page name='Андрей и ММО'/>
+        <page name='Магические строки'/>
+        <page name='Андрей ММО версия 2'/>
+    </pages>
+</playground>
